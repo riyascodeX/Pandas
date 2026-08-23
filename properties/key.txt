@@ -1,0 +1,21 @@
+Keywords
+
+1.pd.series()
+
+2.pd.DataFrame()
+
+3.pd.read_csv()
+
+4.pd.read_cliboard()
+5.pd.read_json()
+6.pd.read_pk()
+
+
+
+Attributes
+
+1.df.columns =
+2.
+3.
+4.
+5.
